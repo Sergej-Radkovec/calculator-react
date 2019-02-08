@@ -1,0 +1,15 @@
+.formulaScreen {
+    min-height: 20px;
+    font-size: 20px;
+    color: orange;
+    text-align: right;
+    vertical-align: top;
+    line-height: 20px;
+}
+
+.outputScreen {
+    font-size: 29px;
+    color: white;
+    text-align: right;
+    line-height: 35px;
+}

@@ -1,0 +1,43 @@
+.Button:disabled {
+    color: #808080;
+    cursor: not-allowed;
+}
+
+button {
+    position: relative;
+    height: 65px;
+    width: 80px;
+    color: white;
+    outline: 1px solid black;
+    border: none;
+    font-size: 20px;
+    margin-right: 1px;
+}
+
+.jumbo {
+    width: 161px;
+}
+
+.vJumbo {
+    position: absolute;
+    height: 130px;
+    bottom: 4px;
+}
+
+.NaN {
+    background-color: #535547;
+}
+
+.Number {
+    background-color: #787a6c;
+}
+
+.red {
+    background-color: rgb(172, 57, 57);
+}
+
+.blue {
+    background: rgb(0, 68, 102);
+}
+
+
